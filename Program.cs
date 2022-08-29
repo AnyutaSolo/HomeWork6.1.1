@@ -37,7 +37,7 @@ Console.WriteLine($"There are {result} positive numbers");
 */
 
 //Задача 2: Напишите программу, которая найдёт точку пересечения двух прямых, заданных уравнениями y = k1 * x + b1, y = k2 * x + b2; значения b1, k1, b2 и k2 задаются пользователем.
-
+/*
 void PointOfIntersektion(double a1, double c1, double a2, double c2)
 {
 double x = (c2 - c1) / (a1 - a2);
@@ -56,5 +56,5 @@ Console.WriteLine("Input the value of the coefficient k1 of the straight line gi
 double b2 = Convert.ToDouble(Console.ReadLine());
 
 PointOfIntersektion(k1, b1, k2, b2);
-
+*/
 
